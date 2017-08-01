@@ -1,0 +1,28 @@
+[debug] [2017-08-01T07:48:07.849Z] ----------------------------------------------------------------------
+[debug] [2017-08-01T07:48:07.852Z] Command:      /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] [2017-08-01T07:48:07.852Z] CLI Version:  3.9.1
+[debug] [2017-08-01T07:48:07.852Z] Platform:     darwin
+[debug] [2017-08-01T07:48:07.852Z] Node Version: v6.9.2
+[debug] [2017-08-01T07:48:07.853Z] Time:         Tue Aug 01 2017 15:48:07 GMT+0800 (+08)
+[debug] [2017-08-01T07:48:07.853Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-08-01T07:48:07.877Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-08-01T07:48:07.877Z] > authorizing via signed-in user
+[debug] [2017-08-01T07:48:07.880Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/firebase-waypastcurfew  
+ Tue Aug 01 2017 15:48:07 GMT+0800 (+08)
+[debug] [2017-08-01T07:48:09.161Z] <<< HTTP RESPONSE 200
+[debug] [2017-08-01T07:48:09.163Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/waypastcurfew/tokens  
+ Tue Aug 01 2017 15:48:09 GMT+0800 (+08)
+[debug] [2017-08-01T07:48:09.962Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/Users/nus/github/waypastcurfew'...
+[info] 
+[debug] [2017-08-01T07:48:09.969Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/firebase-waypastcurfew  
+ Tue Aug 01 2017 15:48:09 GMT+0800 (+08)
+[debug] [2017-08-01T07:48:11.165Z] <<< HTTP RESPONSE 200
+[debug] [2017-08-01T07:48:11.166Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/793929395386/clients/_:getWebAppConfig  
+ Tue Aug 01 2017 15:48:11 GMT+0800 (+08)
+[debug] [2017-08-01T07:48:11.767Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: public
+[info] ✔  hosting: Local server: http://localhost:5000
+
