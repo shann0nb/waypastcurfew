@@ -1,4 +1,4 @@
 waypastcurfew
 =============
 
-Way Past Curfew GAE Project
+WayPastCurfew website.
